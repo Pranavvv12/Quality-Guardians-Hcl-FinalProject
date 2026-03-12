@@ -1,0 +1,68 @@
+2026-03-12 15:38:39 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:39:50 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:39:51 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:40:56 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 15:40:56 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 15:40:57 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 15:42:52 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:42:53 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:43:39 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 15:43:39 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 15:43:39 ERROR tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 15:50:14 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:50:15 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:52:45 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:52:59 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:52:59 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:53:36 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:53:37 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:53:41 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 15:53:41 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 15:53:41 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 15:53:41 INFO  tests.FlipkartCheckoutTest - Product Page Price: ₹2,199
+2026-03-12 15:53:41 INFO  tests.FlipkartCheckoutTest - Cart Page Price: 
+2026-03-12 15:53:41 INFO  tests.FlipkartCheckoutTest - Price validation completed
+2026-03-12 15:57:13 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:57:14 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:58:14 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 15:58:15 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 15:58:22 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 15:58:22 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 15:58:22 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 15:58:22 INFO  tests.FlipkartCheckoutTest - Product Page Price: ₹2,199
+2026-03-12 15:58:22 INFO  tests.FlipkartCheckoutTest - Cart Page Price: 
+2026-03-12 15:58:22 INFO  tests.FlipkartCheckoutTest - Price validation completed
+2026-03-12 16:00:58 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 16:00:59 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 16:01:05 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 16:01:05 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 16:01:06 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 16:01:06 INFO  tests.FlipkartCheckoutTest - Product Page Price: ₹2,199
+2026-03-12 16:01:06 INFO  tests.FlipkartCheckoutTest - Cart Page Price: 
+2026-03-12 16:01:06 INFO  tests.FlipkartCheckoutTest - Price validation completed
+2026-03-12 16:02:47 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 16:02:48 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 16:02:55 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 16:02:55 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 16:02:55 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 16:02:55 INFO  tests.FlipkartCheckoutTest - Product Page Price: ₹2,199
+2026-03-12 16:02:55 INFO  tests.FlipkartCheckoutTest - Cart Page Price: 
+2026-03-12 16:02:55 INFO  tests.FlipkartCheckoutTest - Price validation completed
+2026-03-12 16:03:23 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 16:03:24 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 16:03:44 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 16:03:45 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 16:03:52 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 16:03:52 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 16:03:52 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 16:03:52 INFO  tests.FlipkartCheckoutTest - Product Page Price: ₹2,199
+2026-03-12 16:03:52 INFO  tests.FlipkartCheckoutTest - Cart Page Price: 
+2026-03-12 16:03:52 INFO  tests.FlipkartCheckoutTest - Price validation completed
+2026-03-12 16:14:49 INFO  tests.FlipkartCheckoutTest - Test Started
+2026-03-12 16:14:50 INFO  tests.FlipkartCheckoutTest - Searching product
+2026-03-12 16:15:03 INFO  tests.FlipkartCheckoutTest - Adding product to cart
+2026-03-12 16:15:03 INFO  pages.ProductPage - Clicking Add to Cart button
+2026-03-12 16:15:04 INFO  tests.FlipkartCheckoutTest - Product search completed
+2026-03-12 16:15:04 INFO  tests.FlipkartCheckoutTest - Product Page Price: ₹2,199
+2026-03-12 16:15:04 INFO  tests.FlipkartCheckoutTest - Cart Page Price: 
+2026-03-12 16:15:04 INFO  tests.FlipkartCheckoutTest - Price validation completed
